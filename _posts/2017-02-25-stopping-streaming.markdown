@@ -44,5 +44,5 @@ Save the file and quit Notepad.
 ## Restart AlchemCharts
 Now restart AlchemCharts and voila! You should have a button on the toolbar labelled "Stop Streaming". Click this during market hours and the data strema will end. Click it again to re-enable streaming. Hopefully, you now have a button like the one in the screenshot below. Enjoy!
 
-![The final result]({{ site.url }}/assets/AC_Stop_Streaming_Button.png)
+![The final result]({{ site.baseurl }}/assets/AC_Stop_Streaming_Button.png)
 
