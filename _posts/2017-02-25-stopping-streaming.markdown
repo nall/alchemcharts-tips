@@ -7,7 +7,8 @@ categories: streaming
 It's often useful to have AlchemCharts stop streaming in the middle of the trading day. Maybe a candle is about to close and you don't to have to think about "line jump". Or maybe you just want to grind some during market hours and don't want the distraction of flickering quote sheets. 
 
 AlchemCharts can stop streaming during trading hours, but it's not enabled by default. This post describes how to enable it.
-+++
+<!--more-->
+
 Enabling is pretty minor -- just adding an extra line into a file.
 
 **NOTE** the below describes Windows 10. Other versions of Windows may differ. 
